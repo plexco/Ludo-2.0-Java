@@ -1,0 +1,1 @@
+execute if score state gameState matches 2 run function ludo:game/main

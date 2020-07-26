@@ -1,0 +1,4 @@
+state:
+  0: lobby
+  1: preparation
+  2: playing

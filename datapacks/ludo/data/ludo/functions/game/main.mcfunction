@@ -1,0 +1,1 @@
+execute as @a[scores={diceTimer=1..}] run function ludo:game/dice/rolling
