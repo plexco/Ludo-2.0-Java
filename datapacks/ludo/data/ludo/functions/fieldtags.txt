@@ -1,0 +1,16 @@
+> waypoint
+distinguished through team scoreboard, facing the direction you're supposed to go in
+
+> home
+no need to distinguish through team scoreboard
+
+> nest
+distinguished through team scoreboard
+
+> start
+distinguished through team scoreboard
+
+> safe
+
+> event
+...?
