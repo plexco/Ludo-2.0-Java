@@ -1,0 +1,1 @@
+execute store result score $dice tmp run loot spawn ~ ~ ~ loot ludo:one_to_six
